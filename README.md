@@ -20,7 +20,7 @@ Usage:
 4. Interpretation: Analyze the findings to draw insights into player efficiency and league competitiveness.
 
 
-Dependencies:
+Libraries:
 
 Python 3
 Pandas
